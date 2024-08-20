@@ -20,3 +20,6 @@ ProxyPool 是一个高效的代理池项目，旨在为爬虫项目提供可用�
 
 Echarts 是一个由百度开源的数据可视化，凭借着良好的交互性，精巧的图表设计，得到了众多开发者的认可。而 Python 是一门富有表达力的语言，很适合用于数据处理。当数据分析遇上数据可视化时，pyecharts 诞生了。
 
+[LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
+
+免费和开源的机器翻译 API。自托管，可离线使用，易于设置。
