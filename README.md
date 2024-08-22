@@ -23,3 +23,7 @@ Echarts 是一个由百度开源的数据可视化，凭借着良好的交互性
 [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
 免费和开源的机器翻译 API。自托管，可离线使用，易于设置。
+
+[Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
+
+一个基于开源语音项目实现的简易语音工具箱，提供了包括语音模型训练在内的多种自动化音频工具
