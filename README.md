@@ -27,3 +27,11 @@ Echarts 是一个由百度开源的数据可视化，凭借着良好的交互性
 [Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit)
 
 一个基于开源语音项目实现的简易语音工具箱，提供了包括语音模型训练在内的多种自动化音频工具
+
+[uv](https://github.com/astral-sh/uv)
+
+用 Rust 编写的极其快速的 Python 包和项目管理器。
+
+[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling/tree/main)
+
+X-AnyLabeling 是一款基于AI推理引擎和丰富功能特性于一体的强大辅助标注工具，其专注于实际应用，致力于为图像数据工程师提供工业级的一站式解决方案，可自动快速进行各种复杂任务的标定。
