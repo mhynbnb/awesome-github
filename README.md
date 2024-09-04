@@ -35,3 +35,11 @@ Echarts 是一个由百度开源的数据可视化，凭借着良好的交互性
 [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling/tree/main)
 
 X-AnyLabeling 是一款基于AI推理引擎和丰富功能特性于一体的强大辅助标注工具，其专注于实际应用，致力于为图像数据工程师提供工业级的一站式解决方案，可自动快速进行各种复杂任务的标定。
+
+[kotaemon](https://github.com/Cinnamon/kotaemon)
+
+一个开源的、干净且可定制的 RAG UI，用于与您的文档进行聊天。
+
+[pintree](https://github.com/Pintree-io/pintree)
+
+Pintree 是一个开源项目，旨在将浏览器书签导出成导航网站。通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
