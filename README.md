@@ -43,3 +43,38 @@ X-AnyLabeling 是一款基于AI推理引擎和丰富功能特性于一体的强�
 [pintree](https://github.com/Pintree-io/pintree)
 
 Pintree 是一个开源项目，旨在将浏览器书签导出成导航网站。通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
+
+[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+
+HivisionIDPhoto 旨在开发一种实用的证件照智能制作算法。
+它利用一套完善的模型工作流程，实现对多种用户拍照场景的识别、抠图与证件照生成。
+
+1. 轻量级抠图（仅需 **CPU** 即可快速推理）
+2. 根据不同尺寸规格生成不同的标准证件照、六寸排版照
+3. 美颜（waiting）
+4. 智能换正装（waiting）
+
+[lobe-chat](https://github.com/lobehub/lobe-chat/tree/main)
+
+包括文件上传 / 知识库、多模型服务商支持、支持本地大语言模型、模型视觉识别、TTS&STT 语音会话、Text to Image 文生图、插件系统、助手市场、支持本地 / 远程数据库、支持多用户管理、渐进式 Web 应用、移动设备适配、自定义主题等。
+
+[pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+
+这是一个视频翻译配音工具，可将一种语言的视频翻译为指定语言的视频，自动生成和添加该语言的字幕和配音。
+
+语音识别支持 `faster-whisper`模型 `openai-whisper`模型 和 `GoogleSpeech` `zh_recogn阿里中文语音识别模型`.
+文字翻译支持 `微软翻译|Google翻译|百度翻译|腾讯翻译|ChatGPT|AzureAI|Gemini|DeepL|DeepLX|字节火山|离线翻译OTT`文字合成语音支持 `Microsoft Edge tts` `Google tts` `Azure AI TTS` `Openai TTS` `Elevenlabs TTS` `自定义TTS服务器api` `GPT-SoVITS` [clone-voice](https://github.com/jianchang512/clone-voice) [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) [Fish TTS](https://github.com/fishaudio/fish-speech) [CosyVoice](https://github.com/FunAudioLLM/CosyVoice)
+
+支持的语言：中文简繁、英语、韩语、日语、俄语、法语、德语、意大利语、西班牙语、葡萄牙语、越南语、泰国语、阿拉伯语、土耳其语、匈牙利语、印度语、乌克兰语、哈萨克语、印尼语、马来语、捷克语、波兰语、荷兰语、瑞典语
+
+[GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
+
+GOT-OCR 2.0是一种先进的光学字符识别(OCR)模型，推动OCR技术进入2.0时代。GOT-OCR 2.0端到端的模型由高压缩编码器和长上下文解码器组成，能处理包括文本、数学公式、分子式、图表、乐谱和几何图形在内的多种光学字符。GOT-OCR 2.0支持多种语言，尤其是中文和英文，能输出多种格式化结果，如Markdown和LaTeX。模型具备交互式〇CR功能，包括区域级识别和动态分辨率策略、多页OCR技术，适用于高分辨率图像和批量文档处理。GOT-OCR2.0具有580M参数，模型尺寸为1.43GB，提供精准、高效的OCR解决方案。
+
+[GoodWeBot](https://github.com/ImGoodBai/GoodWeBot)
+
+GoodWeBot 是一款基于RPA技术实现的AI微信机器人，支持AI自动回复、自动加好友、自动接受好友申请、自动给好友打标签等功能。
+
+[haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang)
+
+好软分享
