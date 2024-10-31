@@ -28,6 +28,8 @@
 
 [亿图](https://www.edrawmax.cn/)-（[亿图图示Edraw Max 破解版](https://flowus.cn/share/c6400556-2ae5-4fdd-9b5e-5d6dd894c534?code=CZ3ECT)）
 
+[drawio-desktop](https://github.com/jgraph/drawio-desktop)
+
 #### AI-Chat
 
 [豆包](https://www.doubao.com/chat/)
@@ -81,3 +83,13 @@
 #### 下载工具
 
 [Internet Download Manager](https://www.internetdownloadmanager.com/)
+
+[ab-download-manager](https://github.com/amir1376/ab-download-manager) - IDM平替
+
+#### 剪切板同步
+
+[爱传送（MFiles）](https://mfiles.maokebing.com/)
+
+#### 状态监控
+
+**[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)** - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
