@@ -1,6 +1,4 @@
-[TOC]
-
-
+[toc]
 
 #### PPT
 
@@ -39,8 +37,6 @@
 [豆包](https://www.doubao.com/chat/)
 
 [智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
-
-[360AI助手 ](https://bot.360.com/)- 国产AI聚合
 
 [ChatGPT ](https://chatgpt.com/)-（[ChatGPT共享账号](https://sharedchat.fun/)）
 

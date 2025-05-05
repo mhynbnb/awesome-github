@@ -2,7 +2,7 @@
 
 [自用工具](./personal_tools.md) | [开源工具](opensource_tools.md)
 
-------
+---
 
 [MinerU](https://github.com/opendatalab/MinerU)
 
